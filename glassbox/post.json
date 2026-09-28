@@ -1,0 +1,126 @@
+{
+  "slug": "conceptartclear",
+  "box": 53,
+  "question": "How does concept art work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/conceptartclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/conceptartclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "120 years from a magician drawing his own moon sets to whole worlds painted on tablets before a single frame is shot.\n\n1902: A magician designs his own moon\n1935: The words \"concept art\" appear\n1937: A storybook look for Snow White and Pinocchio\n1939: The first \"production designer\"\n1950: Mary Blair's bold colours\n1955: A film planned in a sketchbook\n\nThe full story, with 28 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/conceptartclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/conceptartclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #conceptart #filmmaking #animation #productiondesign #thumbnails #silhouette #history",
+      "youtube": {
+        "title": "The history of concept art in 45 seconds #shorts",
+        "description": "120 years from a magician drawing his own moon sets to whole worlds painted on tablets before a single frame is shot.\n\n1902 · A magician designs his own moon (Georges Méliès)\n1935 · The words \"concept art\" appear (Walt Disney studio (attributed))\n1937 · A storybook look for Snow White and Pinocchio (Gustaf Tenggren)\n1939 · The first \"production designer\" (William Cameron Menzies)\n1950 · Mary Blair's bold colours (Mary Blair)\n1955 · A film planned in a sketchbook (Satyajit Ray)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/conceptartclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/conceptartclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does concept art work?\n\nBefore a film builds a single set, someone paints it. Design a robot auto-rickshaw from twelve black silhouettes, paint a monsoon street in greys then colour, paint over a 3D blockout, and draw a forest spirit from every side.\n\n→ Before a film builds anything, concept artists design it on paper.\n→ Artists start with dozens of tiny black silhouettes, each made in a minute or two.\n→ Pick the shape that reads best, and it grows into a drawing, then a 3D model.\n→ Painters solve light and dark in greys first, then brush colour over the top.\n→ Haze makes far things paler and bluer: atmospheric perspective fakes depth.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/conceptartclear (link in bio)\n\nBox No. 053 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #conceptart #filmmaking #animation #productiondesign #thumbnails #silhouette #colourtheory #perspective #turnaround",
+    "carousel": "Swipe through: How does concept art work?\n\nBefore a film builds a single set, someone paints it. Design a robot auto-rickshaw from twelve black silhouettes, paint a monsoon street in greys then colour, paint over a 3D blockout, and draw a forest spirit from every side.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/conceptartclear (link in bio).\n\nBox No. 053 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #conceptart #filmmaking #animation #productiondesign #thumbnails #silhouette",
+    "youtube": {
+      "title": "How does concept art work? #shorts",
+      "description": "Before a film builds a single set, someone paints it. Design a robot auto-rickshaw from twelve black silhouettes, paint a monsoon street in greys then colour, paint over a 3D blockout, and draw a forest spirit from every side.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/conceptartclear/\n⌘ Source code (MIT): https://github.com/bdeeps/conceptartclear\n\nBox No. 053 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does concept art work? (interactive explainer)",
+      "description": "Before a film builds a single set, someone paints it. Design a robot auto-rickshaw from twelve black silhouettes, paint a monsoon street in greys then colour, paint over a 3D blockout, and draw a forest spirit from every side.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/conceptartclear/\n⌘ Source code (MIT): https://github.com/bdeeps/conceptartclear\n\nIn this video:\n• A design document for the whole crew. Concept art decides what a film's world, characters and objects look like before anyone builds them.\n• Dozens of tiny black shapes. Artists start with thumbnails: quick, stamp-sized sketches, often solid black silhouettes.\n• Value first, then colour. Painters plan the lights and darks in greys before choosing colours.\n• Block out in 3D, then paint over. Environment artists often build a quick grey 3D blockout of a set, pick a camera and paint over the render.\n• Every side, at the same scale. Once a design is chosen, a turnaround shows it from the front, side and back without perspective, so everything can be measured.\n• New tools, same thinking. Pencil and gouache gave way to Photoshop (1990), layers (1994), pen tablets, Procreate (2011), 3D paint-overs and photobashing.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does concept art work?\n\nBefore a film builds a single set, someone paints it.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/conceptartclear/",
+    "linkedin": "How does concept art work?\n\nBefore a film builds a single set, someone paints it. Design a robot auto-rickshaw from twelve black silhouettes, paint a monsoon street in greys then colour, paint over a 3D blockout, and draw a forest spirit from every side.\n\n1. A design document for the whole crew\n2. Dozens of tiny black shapes\n3. Value first, then colour\n4. Block out in 3D, then paint over\n5. Every side, at the same scale\n6. New tools, same thinking\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 053 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/conceptartclear/\nCode: https://github.com/bdeeps/conceptartclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T00:39:40.969Z"
+}

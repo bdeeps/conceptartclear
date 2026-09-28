@@ -1,0 +1,827 @@
+{
+  "title": "The history of concept art",
+  "tagline": "120 years from a magician drawing his own moon sets to whole worlds painted on tablets before a single frame is shot.",
+  "intro": "Before a film is made, someone has to imagine how it will look. At first directors and set designers sketched it themselves. In the 1930s Disney hired illustrators just to paint ideas that would inspire everyone else, and the job we now call concept art grew from there. Paintings helped sell films, then digital brushes made ideas faster to try, and today big art departments design whole worlds, from Hollywood to Hyderabad.",
+  "eras": [
+    {
+      "id": "sets",
+      "name": "Set sketches and silent spectacle",
+      "from": 1900,
+      "to": 1935,
+      "color": "#c49bff",
+      "summary": "Filmmakers and set designers draw and build their own worlds. There is no separate job yet for painting ideas."
+    },
+    {
+      "id": "sketch",
+      "name": "The inspirational sketch",
+      "from": 1930,
+      "to": 1960,
+      "color": "#ffb547",
+      "summary": "Disney hires illustrators to paint moods and places that inspire the animators, and Hollywood invents the production designer."
+    },
+    {
+      "id": "painter",
+      "name": "The concept painter",
+      "from": 1960,
+      "to": 1990,
+      "color": "#ff7a59",
+      "summary": "Paintings and key drawings plan creatures, spaceships and cities, and help directors sell whole films to studios."
+    },
+    {
+      "id": "digital",
+      "name": "Digital brushes",
+      "from": 1990,
+      "to": 2010,
+      "color": "#38bdf8",
+      "summary": "Pressure pens, Photoshop, Painter and 3D sculpting let artists try ideas quickly and change them without starting again."
+    },
+    {
+      "id": "worlds",
+      "name": "Worldbuilding at scale",
+      "from": 2010,
+      "to": 2026,
+      "color": "#7be08c",
+      "summary": "Large art departments design entire kingdoms and styles, on tablets as well as paper, in India and around the world."
+    }
+  ],
+  "events": [
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "sets",
+      "art": "studio",
+      "key": true,
+      "title": "A magician designs his own moon",
+      "who": "Georges Méliès",
+      "where": "Montreuil, near Paris, France",
+      "country": "France",
+      "text": "Méliès wrote, directed and helped design A Trip to the Moon. He sculpted prototypes for the moon creatures' heads and feet himself, and drew sketches for the film's poster. Historians think he also worked with a painter on the painted scenery.",
+      "why": "It showed that a film's look could be invented on paper and in the workshop before the camera rolled.",
+      "box": "purpose",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "10 January 1927",
+      "era": "sets",
+      "art": "window",
+      "title": "A city of the future, designed first",
+      "who": "Otto Hunte, Erich Kettelhut and Karl Vollbrecht",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "Fritz Lang's Metropolis needed a whole future city. Three art directors designed it, mixing modern, art deco and Gothic ideas. The look was partly inspired by Lang's visit to New York.",
+      "why": "It proved that designers could build a believable world that did not exist yet.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "1929 (for films of 1927–28)",
+      "era": "sets",
+      "art": "clapper",
+      "title": "The first Oscar for art direction",
+      "who": "William Cameron Menzies",
+      "where": "Hollywood, USA",
+      "country": "USA",
+      "text": "Menzies, a trained illustrator, won the very first Academy Award for art direction for The Dove and The Tempest. He planned how films should look with his own drawings.",
+      "why": "Designing a film's look was now recognised as a craft of its own.",
+      "sources": [
+        4,
+        3
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "sketch",
+      "art": "quill",
+      "title": "Disney's first inspirational sketch artist",
+      "who": "Albert Hurter",
+      "where": "Burbank area, California, USA",
+      "country": "USA",
+      "text": "Swiss-born Albert Hurter joined Disney and spent about ten years drawing whatever he liked: odd creatures, cottages, trees and moods. The animators used his sketches as a starting point. He is widely described as Disney's first inspirational sketch artist.",
+      "why": "It created a job whose only purpose was to spark ideas for everyone else.",
+      "box": "purpose",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "c. 1930s",
+      "era": "sketch",
+      "art": "word",
+      "key": true,
+      "title": "The words \"concept art\" appear",
+      "who": "Walt Disney studio (attributed)",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "The term concept art is often said to come from Disney, which used it as early as the 1930s. At the studio, artists painted ideas for scenes long before animation began. Many different ideas were tried before one was chosen.",
+      "why": "It gave a name to a stage of filmmaking that is now in almost every big film and game.",
+      "box": "purpose",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1937,
+      "date": "1936–1939",
+      "era": "sketch",
+      "art": "palette",
+      "key": true,
+      "title": "A storybook look for Snow White and Pinocchio",
+      "who": "Gustaf Tenggren",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Tenggren, a Swedish book illustrator, worked at Disney from 1936 to 1939. His paintings of forests, cottages and villages helped set the European fairy-tale look of Snow White and the Seven Dwarfs (1937) and Pinocchio (1940). Layout artists used them as guides.",
+      "why": "A few paintings could steer the look of a whole film made by hundreds of people.",
+      "box": "value",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "1939",
+      "era": "sketch",
+      "art": "clapper",
+      "key": true,
+      "title": "The first \"production designer\"",
+      "who": "William Cameron Menzies",
+      "where": "Culver City, California, USA",
+      "country": "USA",
+      "text": "Producer David O. Selznick gave Menzies a new title for Gone with the Wind: production designer. It meant he had the final word on how the whole film looked. He won a special Oscar for using colour to set the mood.",
+      "why": "The job of designing a film's whole look before filming now had a name and a credit.",
+      "box": "purpose",
+      "sources": [
+        3,
+        4,
+        34
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "1937–1941",
+      "era": "sketch",
+      "art": "spotlight",
+      "title": "Dark mountains and a little mermaid",
+      "who": "Kay Nielsen",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Danish illustrator Kay Nielsen worked at Disney from 1937 to 1941. His art was used for the Night on Bald Mountain and Ave Maria part of Fantasia (1940). He also painted ideas for a Little Mermaid film that was only made in 1989.",
+      "why": "Concept art can wait for decades and still shape a film.",
+      "box": "value",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1943,
+      "date": "1943",
+      "era": "sketch",
+      "art": "marker",
+      "title": "A future director learns design",
+      "who": "Satyajit Ray",
+      "where": "Calcutta (Kolkata), India",
+      "country": "India",
+      "text": "Ray started work at the advertising agency D.J. Keymer as a junior visualiser. He also illustrated a children's edition of the novel Pather Panchali. That book later became his first film.",
+      "why": "His training as a commercial artist shaped how he planned films in pictures.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1950–1953",
+      "era": "sketch",
+      "art": "colorwheel",
+      "key": true,
+      "title": "Mary Blair's bold colours",
+      "who": "Mary Blair",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Blair joined Disney in 1940 as a colour stylist and travelled to Latin America with Walt Disney in 1941. Her concept art set the style of Cinderella (1950), Alice in Wonderland (1951) and Peter Pan (1953). She used bright, unexpected colours in strong contrast.",
+      "why": "She showed that colour choices in concept art could give a film its whole feeling.",
+      "box": "value",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1950–1955",
+      "era": "sketch",
+      "art": "storyboard",
+      "key": true,
+      "title": "A film planned in a sketchbook",
+      "who": "Satyajit Ray",
+      "where": "Calcutta (Kolkata), India",
+      "country": "India",
+      "text": "Ray had no written script for Pather Panchali at first. He drew its scenes in pen, brush and ink in a sketchbook, and showed these pictures to people he hoped would fund the film. It came out in 1955 and won prizes around the world.",
+      "why": "A sequence of simple drawings was enough to plan, and to sell, a masterpiece.",
+      "box": "thumbnails",
+      "sources": [
+        12,
+        11
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1957–1963",
+      "era": "painter",
+      "art": "puppet",
+      "title": "Key drawings for stop-motion monsters",
+      "who": "Ray Harryhausen",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Before animating his models, Harryhausen made dramatic key drawings of the big moments, such as a sailor fighting a skeleton in 1957. These plans led to the famous skeleton battle in Jason and the Argonauts (1963). His foundation now cares for an archive of more than 50,000 items.",
+      "why": "One strong drawing of a key moment can guide months of frame-by-frame work.",
+      "box": "keyframe",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "1964",
+      "era": "painter",
+      "art": "colour",
+      "title": "A ride that looks like a painting",
+      "who": "Mary Blair",
+      "where": "New York World's Fair, USA",
+      "country": "USA",
+      "text": "Walt Disney asked Blair to help design the It's a Small World ride for the 1964 New York World's Fair. The finished ride closely follows her style. It was later rebuilt in Disney parks around the world.",
+      "why": "Concept art could shape real places people walk through, not only films.",
+      "sources": [
+        10,
+        9
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "1969",
+      "era": "painter",
+      "art": "quill",
+      "title": "The red notebook",
+      "who": "Satyajit Ray",
+      "where": "Kolkata, India",
+      "country": "India",
+      "text": "Ray kept a red cloth notebook, a kheror khata, for each film. It held notes, sketches, music and storyboards. The one for Goopy Gyne Bagha Byne (1969) has been digitised with its sketchbook for anyone to explore.",
+      "why": "It shows one artist planning a whole fantasy film by hand, page by page.",
+      "box": "thumbnails",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "1975",
+      "era": "painter",
+      "art": "spotlight",
+      "key": true,
+      "title": "Paintings that sold Star Wars",
+      "who": "Ralph McQuarrie and George Lucas",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Lucas asked McQuarrie to paint several scenes from his Star Wars script. Lucas took the paintings to 20th Century Fox, and they helped convince the studio to fund the film. McQuarrie also designed many of its characters and sets.",
+      "why": "It made the concept painting famous as a tool for selling an idea, not just planning it.",
+      "box": "purpose",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "painter",
+      "art": "window",
+      "key": true,
+      "title": "A \"visual futurist\" designs two films at once",
+      "who": "Syd Mead",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Mead, a former industrial designer, was the first person hired for Blade Runner. He started with vehicles and ended up designing streets, buildings and props. At the same time he designed for Tron, and he invented the screen credit visual futurist.",
+      "why": "It showed how one concept designer could shape a whole imagined future.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "era": "painter",
+      "art": "stylus",
+      "title": "The pen tablet company",
+      "who": "Wacom, founded by Azuma Murakami",
+      "where": "Ageo, Saitama, Japan",
+      "country": "Japan",
+      "text": "Wacom was founded to make pen tablets. Its pens sense how hard you press, using magnetic signals from the tablet, so the pen needs no battery. In 1991 it made pens without a cord.",
+      "why": "Pressure-sensitive pens made drawing on a computer feel much more like drawing on paper.",
+      "box": "tools",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1988",
+      "era": "painter",
+      "art": "palette",
+      "title": "Painting a forest you can almost smell",
+      "who": "Kazuo Oga",
+      "where": "Tokyo, Japan",
+      "country": "Japan",
+      "text": "Oga was art director on Studio Ghibli's My Neighbor Totoro. His painted backgrounds of fields and forests gave the film its warm, living feel. In 2007 a Tokyo museum held a show about him called The Man Who Drew Totoro's Forest.",
+      "why": "Background painting and art direction can make a place feel like a character.",
+      "box": "value",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "19 February 1990",
+      "era": "digital",
+      "art": "pixels",
+      "key": true,
+      "title": "Photoshop 1.0",
+      "who": "Thomas and John Knoll, Adobe",
+      "where": "USA",
+      "country": "USA",
+      "text": "Thomas Knoll wrote a program to show and change pictures while he was a student. His brother John, who worked at the effects studio Industrial Light & Magic, pushed him to grow it. Adobe released it as Photoshop 1.0 in February 1990.",
+      "why": "Layers of changeable digital paint later became the everyday tool of concept artists.",
+      "box": "tools",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "digital",
+      "art": "digital",
+      "title": "Painter: paint that behaves like paint",
+      "who": "Mark Zimmer and Tom Hedges, Fractal Design",
+      "where": "USA",
+      "country": "USA",
+      "text": "Painter was made to copy real materials like watercolour, oils, chalk and charcoal on textured paper. With a pressure pen, its brushes respond to how you press and tilt. It is now sold by Corel.",
+      "why": "Artists could keep their painting skills and still work digitally.",
+      "box": "tools",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "digital",
+      "art": "focus",
+      "title": "A design director for a galaxy",
+      "who": "Doug Chiang",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Lucasfilm hired Doug Chiang, born in Taipei, to lead its art department. As design director he shaped the look of the Star Wars prequels from 1999. Years later he said he designs in the iPad app Procreate.",
+      "why": "Big films began to have whole teams of concept artists led by one design director.",
+      "sources": [
+        24,
+        28
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "1999",
+      "era": "digital",
+      "art": "wireframe",
+      "title": "Sculpting in 3D like clay",
+      "who": "Pixologic (Ofer Alon and Jack Rimokh)",
+      "where": "SIGGRAPH, USA",
+      "country": "USA",
+      "text": "ZBrush was shown at the SIGGRAPH conference in 1999. It lets artists push and pull digital clay with brushes, with millions of tiny faces. Studios like ILM and Wētā FX use it to design creatures and props.",
+      "why": "Designers could turn a drawing into a model you can spin and see from every side.",
+      "box": "turnaround",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000–2003",
+      "era": "digital",
+      "art": "nib",
+      "title": "Illustrators draw Middle-earth",
+      "who": "Alan Lee, John Howe and Wētā Workshop",
+      "where": "Wellington, New Zealand",
+      "country": "New Zealand",
+      "text": "Book illustrators Alan Lee and John Howe were the lead concept artists for Peter Jackson's Lord of the Rings films. Set builders closely followed some of Lee's drawings. Lee shared the 2004 Oscar for art direction.",
+      "why": "Concept art connected a famous book's world to the sets, props and effects built for the screen.",
+      "sources": [
+        26,
+        27
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001–2002",
+      "era": "digital",
+      "art": "studio",
+      "title": "Villages and palaces for Hindi cinema",
+      "who": "Nitin Chandrakant Desai",
+      "where": "Mumbai, India",
+      "country": "India",
+      "text": "Desai was art director on films including Lagaan (2001) and Devdas (2002). He won four National Film Awards for art direction. In 2005 he opened ND Studios near Mumbai.",
+      "why": "Designing a film's world on a grand scale became a celebrated craft in India too.",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "16 March 2011",
+      "era": "worlds",
+      "art": "stylus",
+      "title": "A studio in a tablet",
+      "who": "Savage Interactive",
+      "where": "Hobart, Tasmania, Australia",
+      "country": "Australia",
+      "text": "Procreate, a painting app for the iPad, was released in 2011. Artists at studios like Disney Animation and Pixar now use it. A sketch can start on a train and end up in a film.",
+      "why": "Concept art tools became portable, cheap and easy to learn.",
+      "box": "tools",
+      "sources": [
+        28,
+        0
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "10 July 2015",
+      "era": "worlds",
+      "art": "storyboard",
+      "key": true,
+      "title": "A kingdom drawn 15,000 times",
+      "who": "Sabu Cyril and the Baahubali team",
+      "where": "Hyderabad, India",
+      "country": "India",
+      "text": "For Baahubali: The Beginning, production designer Sabu Cyril designed a whole kingdom, including thousands of weapons and armour pieces. About 15,000 storyboard sketches were made before filming. VFX studios such as Makuta VFX in Hyderabad then built its biggest sights.",
+      "why": "It showed Indian cinema designing fantasy worlds at the same scale as Hollywood.",
+      "box": "thumbnails",
+      "sources": [
+        30,
+        29
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "14 December 2018",
+      "era": "worlds",
+      "art": "colorwheel",
+      "title": "A film that looks like a comic",
+      "who": "Justin K. Thompson and Sony Pictures Animation",
+      "where": "Los Angeles, USA",
+      "country": "USA",
+      "text": "For Spider-Man: Into the Spider-Verse, the team drew and painted comic-book lines, dots and textures on top of 3D frames. Production designer Justin K. Thompson helped set the style. It won the Oscar for best animated film.",
+      "why": "Visual development can invent a brand new look for a whole kind of film.",
+      "box": "value",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "25 March 2022",
+      "era": "worlds",
+      "art": "cinema",
+      "title": "Building 1920s India for RRR",
+      "who": "Sabu Cyril",
+      "where": "Hyderabad, India",
+      "country": "India",
+      "text": "Sabu Cyril was production designer on RRR. His team built a big village set and a copy of old Delhi at Ramoji Film City. The film became a worldwide hit, and its song Naatu Naatu won an Oscar.",
+      "why": "Careful design of a past world helped an Indian film reach audiences everywhere.",
+      "sources": [
+        31,
+        29
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oscar for art direction",
+      "value": "1929",
+      "who": "William Cameron Menzies, USA"
+    },
+    {
+      "label": "Inspirational sketch artist at Disney",
+      "value": "1931",
+      "who": "Albert Hurter, Swiss-born, USA"
+    },
+    {
+      "label": "\"Production designer\" credit",
+      "value": "1939",
+      "who": "William Cameron Menzies, Gone with the Wind"
+    },
+    {
+      "label": "\"Visual futurist\" screen credit",
+      "value": "1982",
+      "who": "Syd Mead, Blade Runner"
+    },
+    {
+      "label": "Photoshop 1.0",
+      "value": "1990",
+      "who": "Thomas and John Knoll, Adobe, USA"
+    },
+    {
+      "label": "Natural-media painting app",
+      "value": "1991",
+      "who": "Painter, Fractal Design, USA"
+    },
+    {
+      "label": "Cordless pen for a tablet",
+      "value": "1991",
+      "who": "Wacom, Japan"
+    },
+    {
+      "label": "ZBrush digital sculpting shown",
+      "value": "1999",
+      "who": "Pixologic, SIGGRAPH"
+    }
+  ],
+  "people": [
+    {
+      "name": "Albert Hurter",
+      "life": "1883 – 1942",
+      "role": "Inspirational sketch artist",
+      "from": "Switzerland",
+      "note": "Disney's first inspirational sketch artist, drawing freely to spark ideas for Snow White and Pinocchio."
+    },
+    {
+      "name": "William Cameron Menzies",
+      "life": "1896 – 1957",
+      "role": "Production designer",
+      "from": "USA",
+      "note": "The first person credited as production designer, on Gone with the Wind."
+    },
+    {
+      "name": "Gustaf Tenggren",
+      "life": "1896 – 1970",
+      "role": "Illustrator",
+      "from": "Sweden",
+      "note": "His fairy-tale paintings shaped the look of Snow White and Pinocchio."
+    },
+    {
+      "name": "Kay Nielsen",
+      "life": "1886 – 1957",
+      "role": "Illustrator",
+      "from": "Denmark",
+      "note": "Painted the dark mountain of Fantasia and early Little Mermaid ideas."
+    },
+    {
+      "name": "Mary Blair",
+      "life": "1911 – 1978",
+      "role": "Colour stylist and concept artist",
+      "from": "USA",
+      "note": "Brought bold modern colour to Cinderella, Alice, Peter Pan and It's a Small World."
+    },
+    {
+      "name": "Satyajit Ray",
+      "life": "1921 – 1992",
+      "role": "Director, designer and illustrator",
+      "from": "India",
+      "note": "Planned his films in sketchbooks and red notebooks full of drawings."
+    },
+    {
+      "name": "Ray Harryhausen",
+      "life": "1920 – 2013",
+      "role": "Stop-motion animator",
+      "from": "USA",
+      "note": "Drew dramatic key drawings before animating his famous creatures."
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "life": "1929 – 2012",
+      "role": "Concept artist",
+      "from": "USA",
+      "note": "His 1975 paintings helped Star Wars get made."
+    },
+    {
+      "name": "Syd Mead",
+      "life": "1933 – 2019",
+      "role": "Visual futurist",
+      "from": "USA",
+      "note": "Designed the future cities and vehicles of Blade Runner and worked on Tron."
+    },
+    {
+      "name": "Kazuo Oga",
+      "life": "born 1952",
+      "role": "Art director and background painter",
+      "from": "Japan",
+      "note": "Painted the forests and fields of My Neighbor Totoro."
+    },
+    {
+      "name": "Doug Chiang",
+      "life": "born 1962",
+      "role": "Design director",
+      "from": "Taiwan and USA",
+      "note": "Has led Star Wars design at Lucasfilm since 1995."
+    },
+    {
+      "name": "Sabu Cyril",
+      "life": "born 1962",
+      "role": "Production designer",
+      "from": "India",
+      "note": "Designed the worlds of Baahubali and RRR, and has won four National Film Awards."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "About 15,000 storyboard sketches were made for Baahubali: The Beginning before filming.",
+    "Kay Nielsen's Little Mermaid paintings from the late 1930s waited about 50 years for Disney to make the film in 1989.",
+    "The Ray and Diana Harryhausen Foundation looks after more than 50,000 items, including his drawings and models.",
+    "Photoshop 1.0 had just one engineer, Thomas Knoll, and was written mostly in the Pascal language.",
+    "Satyajit Ray had no written script for Pather Panchali at first: he planned it in drawings."
+  ],
+  "sources": [
+    {
+      "title": "Concept art",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Concept_art"
+    },
+    {
+      "title": "A Trip to the Moon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Trip_to_the_Moon"
+    },
+    {
+      "title": "Metropolis (1927 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)"
+    },
+    {
+      "title": "William Cameron Menzies",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Cameron_Menzies"
+    },
+    {
+      "title": "William Cameron Menzies",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/William-Cameron-Menzies"
+    },
+    {
+      "title": "As Albert Hurter Drew, He Pleased the Disney Artists Around Him",
+      "publisher": "PRINT Magazine",
+      "url": "https://www.printmag.com/comics-animation-design/albert-hurter-drew-as-he-pleased-the-disney-artists-around-him/"
+    },
+    {
+      "title": "Gustaf Tenggren",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gustaf_Tenggren"
+    },
+    {
+      "title": "Gustaf Tenggren: Folk Tales & Disney (exhibition texts)",
+      "publisher": "Millesgården, Stockholm",
+      "url": "https://www.millesgarden.se/files/other/pdf/TenggrenVaggtexterUtstallningen2020Engelska.pdf"
+    },
+    {
+      "title": "Kay Nielsen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kay_Nielsen"
+    },
+    {
+      "title": "Mary Blair",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Blair"
+    },
+    {
+      "title": "Mary Blair, Disney Legend",
+      "publisher": "D23 (The Walt Disney Company)",
+      "url": "https://d23.com/walt-disney-legend/mary-blair/"
+    },
+    {
+      "title": "Satyajit Ray",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satyajit_Ray"
+    },
+    {
+      "title": "Rare sketches and photos of the making of Satyajit Ray's Pather Panchali",
+      "publisher": "Scroll.in",
+      "url": "https://scroll.in/reel/807444/rare-sketches-and-photos-of-the-making-of-satyajit-rays-pather-panchali"
+    },
+    {
+      "title": "Mind of a Genius: Ray and his Kheror Khata",
+      "publisher": "TCG CREST",
+      "url": "https://www.tcgcrest.org/projects/mind-of-a-genius-ray-and-his-kheror-khata/"
+    },
+    {
+      "title": "Ray Harryhausen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ray_Harryhausen"
+    },
+    {
+      "title": "Art Unlocked: The Ray and Diana Harryhausen Foundation",
+      "publisher": "Art UK",
+      "url": "https://artuk.org/discover/curations/art-unlocked-the-ray-and-diana-harryhausen-foundation"
+    },
+    {
+      "title": "Ralph McQuarrie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ralph_McQuarrie"
+    },
+    {
+      "title": "The Force Is Still Strong With Him: Ralph McQuarrie",
+      "publisher": "ArtCenter College of Design",
+      "url": "https://www.artcenter.edu/connect/dot-magazine/articles/the-force-is-still-strong-with-him-ralph-mcquarrie.html"
+    },
+    {
+      "title": "Syd Mead",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Syd_Mead"
+    },
+    {
+      "title": "Kazuo Oga",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kazuo_Oga"
+    },
+    {
+      "title": "Wacom",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wacom"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Photoshop"
+    },
+    {
+      "title": "Adobe Photoshop Source Code",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/blog/adobe-photoshop-source-code/"
+    },
+    {
+      "title": "Corel Painter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Corel_Painter"
+    },
+    {
+      "title": "Doug Chiang",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doug_Chiang"
+    },
+    {
+      "title": "ZBrush",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ZBrush"
+    },
+    {
+      "title": "Alan Lee (illustrator)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alan_Lee_(illustrator)"
+    },
+    {
+      "title": "Wētā Workshop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Weta_Workshop"
+    },
+    {
+      "title": "Procreate (software)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Procreate_(software)"
+    },
+    {
+      "title": "Sabu Cyril",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sabu_Cyril"
+    },
+    {
+      "title": "Baahubali: The Beginning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baahubali:_The_Beginning"
+    },
+    {
+      "title": "RRR (film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RRR_(film)"
+    },
+    {
+      "title": "Nitin Chandrakant Desai",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nitin_Chandrakant_Desai"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse"
+    },
+    {
+      "title": "Biography sheds light on William Cameron Menzies, the first production designer",
+      "publisher": "Harry Ransom Center, University of Texas at Austin",
+      "url": "https://sites.utexas.edu/ransomcentermagazine/2016/02/04/curtis_biography_menzies/"
+    }
+  ]
+}

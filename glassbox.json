@@ -1,0 +1,106 @@
+{
+  "slug": "conceptartclear",
+  "box": 53,
+  "date": "2026-10-11",
+  "title": "ConceptArtClear",
+  "question": "How does concept art work?",
+  "hook": "Before a film builds a single set, someone paints it. Design a robot auto-rickshaw from twelve black silhouettes, paint a monsoon street in greys then colour, paint over a 3D blockout, and draw a forest spirit from every side.",
+  "thumbText": "HOW CONCEPT ART WORKS",
+  "field": "film",
+  "minutes": 14,
+  "tags": [
+    "concept art",
+    "film making",
+    "animation",
+    "production design",
+    "thumbnails",
+    "silhouette",
+    "colour theory",
+    "perspective",
+    "turnaround",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A design document for the whole crew",
+      "text": "Concept art decides what a film's world, characters and objects look like before anyone builds them. Carpenters, tailors, 3D modellers and the director all work from the same pictures. A design moves from a written brief to thumbnails, roughs, a final painting, a turnaround and a model sheet, then gets built."
+    },
+    {
+      "title": "Dozens of tiny black shapes",
+      "text": "Artists start with thumbnails: quick, stamp-sized sketches, often solid black silhouettes. If you can tell a design apart from its outline alone, it will read on screen even far away or in the dark. Clear negative space and one big idea make a silhouette readable."
+    },
+    {
+      "title": "Value first, then colour",
+      "text": "Painters plan the lights and darks in greys before choosing colours. Low sun is orange, about 2,000 to 3,500 K; high sun is near white, about 5,500 K. Haze makes far things paler, bluer and lower in contrast, and leading lines guide the eye to a focal point near a rule-of-thirds crossing."
+    },
+    {
+      "title": "Block out in 3D, then paint over",
+      "text": "Environment artists often build a quick grey 3D blockout of a set, pick a camera and paint over the render. Parallel lines meet at vanishing points: one-point looking straight down a street, two-point when the camera turns, three-point when it tilts up."
+    },
+    {
+      "title": "Every side, at the same scale",
+      "text": "Once a design is chosen, a turnaround shows it from the front, side and back without perspective, so everything can be measured. A model sheet adds the height next to a human, proportions in head-heights and colour codes: the page a 3D modeller builds from."
+    },
+    {
+      "title": "New tools, same thinking",
+      "text": "Pencil and gouache gave way to Photoshop (1990), layers (1994), pen tablets, Procreate (2011), 3D paint-overs and photobashing. The job is still design. In India, concept artists work in VFX, animation and game studios and film art departments, and a small portfolio of original work gets them hired."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Concept art",
+      "def": "Drawings and paintings that design how a film's world, characters and objects look before they are built."
+    },
+    {
+      "term": "Thumbnail",
+      "def": "A tiny, quick sketch used to try out many ideas fast."
+    },
+    {
+      "term": "Silhouette test",
+      "def": "Checking that a design can still be recognised as a solid black shape."
+    },
+    {
+      "term": "Value",
+      "def": "How light or dark a colour is, ignoring its hue."
+    },
+    {
+      "term": "Atmospheric perspective",
+      "def": "Far things look paler, bluer and lower in contrast because of the air in between."
+    },
+    {
+      "term": "Vanishing point",
+      "def": "The point where parallel lines seem to meet in a picture drawn in perspective."
+    },
+    {
+      "term": "Paint-over",
+      "def": "Painting on top of a rendered 3D view to add colour, light and detail."
+    },
+    {
+      "term": "Turnaround",
+      "def": "One design drawn from the front, side and back at the same scale, so it can be built."
+    },
+    {
+      "term": "Model sheet",
+      "def": "A reference page with views, proportions, sizes and colour codes for the builders."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "conceptartclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
